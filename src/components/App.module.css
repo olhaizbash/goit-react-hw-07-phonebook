@@ -1,0 +1,13 @@
+div {
+  padding: 30px;
+  width: 600px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  background: linear-gradient(
+    90deg,
+    rgba(94, 52, 43, 0.5998774509803921) 0%,
+    rgba(70, 40, 55, 0.48503151260504207) 34%,
+    rgba(121, 115, 72, 0.7203256302521008) 100%
+  );
+}

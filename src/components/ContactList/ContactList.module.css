@@ -1,0 +1,21 @@
+.button {
+  width: 100px;
+  height: 20px;
+  border-radius: 5px;
+  border: none;
+  background-color: beige;
+  margin-left: 5px;
+}
+.button:hover {
+  cursor: pointer;
+  background-color: rgb(144, 144, 128);
+  color: white;
+}
+ul {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+li {
+  font-size: 20px;
+}
